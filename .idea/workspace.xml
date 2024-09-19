@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c796712a-62cd-4f9c-b87e-a01cc23849bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HQL/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/ijse/config/FactoryConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/ijse/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/ijse/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HQL/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    <list default="true" id="c796712a-62cd-4f9c-b87e-a01cc23849bb" name="Changes" comment="hql">
+      <change afterPath="$PROJECT_DIR$/JPQL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPQL/src/main/java/lk/ijse/config/FactoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPQL/src/main/java/lk/ijse/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPQL/src/main/java/lk/ijse/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JPQL/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/config/FactoryConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/config/FactoryConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/entity/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/entity/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/entity/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Sayuri/Desktop/hibernateMapping/HQL/src/main/java/lk/ijse",
+    "last_opened_file_path": "C:/Users/Sayuri/Desktop/hibernateMapping/JPQL/src/main/java/lk/ijse",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +52,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sayuri\Desktop\hibernateMapping\JPQL\src\main\java\lk\ijse" />
       <recent name="C:\Users\Sayuri\Desktop\hibernateMapping\HQL\src\main\java\lk\ijse" />
       <recent name="C:\Users\Sayuri\Desktop\hibernateMapping\SQL\src\main\java\lk\ijse" />
     </key>
@@ -78,11 +74,24 @@
       <option name="presentableId" value="Default" />
       <updated>1726757362290</updated>
       <workItem from="1726757363329" duration="11000" />
-      <workItem from="1726757484420" duration="1345000" />
+      <workItem from="1726757484420" duration="1911000" />
     </task>
+    <task id="LOCAL-00001" summary="hql">
+      <option name="closed" value="true" />
+      <created>1726758887600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726758887601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hql" />
+    <option name="LAST_COMMIT_MESSAGE" value="hql" />
   </component>
 </project>
