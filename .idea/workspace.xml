@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c796712a-62cd-4f9c-b87e-a01cc23849bb" name="Changes" comment="jql">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="c796712a-62cd-4f9c-b87e-a01cc23849bb" name="Changes" comment="sql done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/ijse/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HQL/src/main/java/lk/ijse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/ijse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HQL/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HQL/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726757362290</updated>
       <workItem from="1726757363329" duration="11000" />
-      <workItem from="1726757484420" duration="6056000" />
+      <workItem from="1726757484420" duration="10099000" />
     </task>
     <task id="LOCAL-00001" summary="hql">
       <option name="closed" value="true" />
@@ -103,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726759588934</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sql done">
+      <option name="closed" value="true" />
+      <created>1726763805419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726763805419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +120,7 @@
     <MESSAGE value="hql" />
     <MESSAGE value="jpql" />
     <MESSAGE value="jql" />
-    <option name="LAST_COMMIT_MESSAGE" value="jql" />
+    <MESSAGE value="sql done" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql done" />
   </component>
 </project>
